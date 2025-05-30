@@ -8,6 +8,6 @@ python3 classification/train.py \
        --drop 0.5 \
        --lr 1e-4 \
        --warmup-epochs 5 \
-       --epochs 6 \
+       --epochs 300 \
        --gpu 1 \
        --output classification/output
