@@ -29,6 +29,8 @@ LLD-MMRI( [here](https://github.com/LMMMEng/LLD-MMRI-Dataset?tab=readme-ov-file)
 
 ## Experiments
 
+Pretrained models can found in [google drive](https://drive.google.com/drive/folders/1Dq9pjWID-1FKrISXIRfGajtE2WKkgLEu?usp=drive_link).
+
 ### for training 
 ```
 bash classification/scripts/train.sh
