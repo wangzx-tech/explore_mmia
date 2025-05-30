@@ -29,7 +29,7 @@ LLD-MMRI( [here](https://github.com/LMMMEng/LLD-MMRI-Dataset?tab=readme-ov-file)
 
 ## Experiments
 
-Pretrained models can found in [google drive](https://drive.google.com/drive/folders/1Dq9pjWID-1FKrISXIRfGajtE2WKkgLEu?usp=drive_link).
+Pretrained models can found in [google drive]([https://drive.google.com/drive/folders/1Dq9pjWID-1FKrISXIRfGajtE2WKkgLEu?usp=drive_link](https://drive.google.com/file/d/1oX-gdpvfYN8f1PNS6DA2SS0hs--P4jdO/view?usp=sharing)).
 
 ### for training 
 ```
